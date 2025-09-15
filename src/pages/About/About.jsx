@@ -27,7 +27,7 @@ export default function About() {
               <div className="pt-8">
                 <blockquote className="border-l-4 border-gray-500 pl-3">
                   <p className="text-white font-midium text-2xl gradient-text">
-                  Wei Ling is a skilled software developer with experience in building web, and AI-powered applications. Proficient in technologies like C#, ASP.NET, Laravel, Java, iOS, Swift, and Kotlin, they specialize in creating scalable and user-friendly solutions. With expertise in Machine Learning, Deep Learning, and tools like TensorFlow, as well as working with APIs like Stripe and PayPal, and frameworks such as React and Angular, they turn complex challenges into innovative, intelligent applications.<br></br><br></br>Wei Ling Tan
+                  Wei Ling is a skilled software developer with experience in building web, and AI-powered applications. Proficient in technologies like C#, ASP.NET, Laravel, Java, iOS, Swift, and Kotlin, specializing in creating scalable and user-friendly solutions. With expertise in Machine Learning, Deep Learning, and tools like TensorFlow, as well as working with APIs like Stripe and PayPal, and frameworks such as React and Angular, they turn complex challenges into innovative, intelligent applications.<br></br><br></br>Wei Ling Tan
                   </p>
 
                   <div className="mt-6 space-y-3">
